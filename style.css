@@ -47,6 +47,7 @@ p {
 }
 .qr-container .text {
   padding-block: 0.5rem;
+  text-align: center;
 }
 .qr-container .text p {
   padding: 1rem;
